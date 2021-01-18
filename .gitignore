@@ -1,0 +1,5 @@
+**venv**
+**env**
+*.pcap
+.vscode
+.idea
